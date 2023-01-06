@@ -1,0 +1,16 @@
+body {
+  background-color: #444;
+  color: white;
+}
+
+.dark {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: white;
+}
